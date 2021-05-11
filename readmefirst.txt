@@ -1,0 +1,1 @@
+masalah pada projek ini terletak pada halaman App.vue bagian script
